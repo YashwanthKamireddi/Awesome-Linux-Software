@@ -1321,6 +1321,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/nextcloud) [nextCloud](https://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
 - [![Open-Source Software][oss icon]](https://github.com/owncloud) [ownCloud](https://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
 - [![Open-Source Software][oss icon]](https://github.com/haiwen/seafile) [Seafile](https://www.seafile.com/en/home/) - Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
+- [![Open-Source Software][oss icon]](https://github.com/YashwanthKamireddi/Skykeep) [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) - Native apps for your iCloud Drive, Photos, Notes, Reminders, Calendar and Contacts, kept on your computer and in sync with your iPhone.
 
 #### Download Manager
 
